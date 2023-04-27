@@ -3,9 +3,10 @@
 .main{
 	width:200px;
 	background-color:purple;
+	border-left:5px solid green;
 }
 #heading{
-	border-left:5px solid green;
+	
 	font-size:20px;
 	padding:10px;
 	color: white;
